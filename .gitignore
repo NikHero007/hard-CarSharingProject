@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/gradle/
+/Car Sharing/task/build/
+/Car Sharing/task/out/
+/Car Sharing/task/out/test/
+/Car Sharing/Companies/
+/Car Sharing/Initialization/
+/Car Sharing/Relationship/
+/Car Sharing/Welcome, customer/
+/Car Sharing/task/src/db/
